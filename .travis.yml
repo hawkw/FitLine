@@ -2,8 +2,8 @@
 language: python
 # requires Python 3.3 or greater
 python:
-	-"3.2"
-	-"3.3"
+  -"3.2"
+  -"3.3"
 # command to install dependencies
 install:
   - "pip install ."
